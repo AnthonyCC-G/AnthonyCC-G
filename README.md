@@ -3,12 +3,13 @@
 
 - 🔭 I’m currently working on **SliderSaga**
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, ...**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
 
 - ⚡ Fun fact **La curiosité n’a pas seulement "tué le chat" - elle a fait de moi un développeur. Je suis du genre à plonger dans des terriers juste pour voir où ils mènent. Que ce soit le développement web, la logique d’animation ou pourquoi les méduses brillent dans le noir… je veux savoir. Je débute dans le monde du dev, donc mes projets contiennent sûrement quelques couacs (voire des symphonies entières). Mais bon … chaque bug écrasé est une leçon de plus. Si tu repères quelque chose de bizarre, cassé ou carrément brillant, n’hésite pas à me le dire. Je suis tout ouïe (et plein d’onglets ouverts …). Ah, et je ris beaucoup trop facilement. C’est une fonctionnalité, pas un bug. Et si l’envie te prend de discuter, d’échanger des idées ou même des mèmes… je suis partant.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/anthony-c-279ab0109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anthony-c-279ab0109" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
