@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on **SliderSaga**
-![ANKODECODEENLIGNE](https://github.com/user-attachments/assets/3b65b35f-59a1-43d4-9cd1-f87757cd75bd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b65b35f-59a1-43d4-9cd1-f87757cd75bd" alt="Anko Code en Ligne" width="400"/>
+</p>
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
 
