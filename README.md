@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **SliderSaga**
+<br>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3b65b35f-59a1-43d4-9cd1-f87757cd75bd" alt="Anko Code en Ligne" width="400"/>
 </p>
+
+<br>
+<br>
+
+## 🚀 About Me
+- 🔭 I'm currently working on **SliderSaga**
+- 🌱 I'm currently learning **HTML, CSS, JAVASCRIPT**
+- ⚡ Fun fact: **La curiosité n'a pas seulement "tué le chat"...**
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
 
