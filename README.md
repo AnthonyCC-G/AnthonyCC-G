@@ -12,8 +12,8 @@
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **SliderSaga**
-- 🌱 I'm currently learning **HTML, CSS, JAVASCRIPT**
-- ⚡ Fun fact: **La curiosité n'a pas seulement "tué le chat"...**
+- 🌱 I'm currently learning **HTML, CSS, JAVASCRIPT, PHP, MySQL**
+- ⚡ Fun fact: **Surtout pas écouter Jen Barber :"il ne faut pas taper Google dans Google, ça provoquerait la fin de l'internet"**
 
 <br>
 
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
 
-- ⚡ Fun fact **La curiosité n’a pas seulement "tué le chat" - elle a fait de moi un développeur. Je suis du genre à plonger dans des terriers juste pour voir où ils mènent. Que ce soit le développement web, la logique d’animation ou pourquoi les méduses brillent dans le noir… je veux savoir. Je débute dans le monde du dev, donc mes projets contiennent sûrement quelques couacs (voire des symphonies entières). Mais bon … chaque bug écrasé est une leçon de plus. Si tu repères quelque chose de bizarre, cassé ou carrément brillant, n’hésite pas à me le dire. Je suis tout ouïe (et plein d’onglets ouverts …). Ah, et je ris beaucoup trop facilement. C’est une fonctionnalité, pas un bug. Et si l’envie te prend de discuter, d’échanger des idées ou même des mèmes… je suis partant.**
+- ⚡ Fun fact **"La curiosité n’a pas seulement "tué le chat" - elle a fait de moi un développeur". Du genre à plonger dans des terriers juste pour voir où ils mènent. Que ce soit le développement web, la logique d’animation ou pourquoi les méduses brillent dans le noir… je veux savoir. Je débute dans le monde du dev, donc mes projets contiennent sûrement quelques couacs (voire des symphonies entières). ... Chaque bug écrasé est une leçon de plus. Si tu repères quelque chose de bizarre, cassé ou carrément brillant, n’hésite pas à me le dire. Je suis tout ouïe (et plein d’onglets ouverts …). Ah, et je ris beaucoup trop facilement. C’est une fonctionnalité, pas un bug. Et si l’envie te prend de discuter, d’échanger des idées ou même des mèmes… welcom !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
