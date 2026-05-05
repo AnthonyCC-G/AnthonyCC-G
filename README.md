@@ -13,9 +13,9 @@
 
 ## 🚀 À propos de moi
 
-- 🎓 Formation **DWWM (Développeur Web et Web Mobile)** terminée le 20 février 2026 — en attente des résultats
-- 🔭 Je travaille actuellement sur **MySecretRepo** *(rien à voir ici... ou peut-être que si 👀)*
-- 🌱 Ma stack : **HTML, CSS, JavaScript, PHP, Symfony, PostgreSQL, MongoDB, Docker, Angular, React**
+- 🎓 Formation **DWWM (Développeur Web et Web Mobile)** terminée le 20 février 2026 — diplôme obtenu
+- 🔭 Je travaille actuellement sur **MySecretRepo** *(rien à voir ici ... )*
+- 🌱 Ma stack : **HTML, CSS, JavaScript, PHP, Symfony, PostgreSQL, MongoDB, Docker, Angular, React, typescript**
 - ⚡ Fun fact : **"Beaucoup trop curieux, gourmand et adore poser des questions... Prévoyez du temps si vous souhaitez me contacter."**
 
 Du genre à plonger dans des terriers juste pour voir où ils mènent. Que ce soit le développement web, la logique d'architecture ou pourquoi les méduses brillent dans le noir… je veux savoir.
