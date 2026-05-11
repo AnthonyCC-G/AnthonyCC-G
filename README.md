@@ -1,5 +1,6 @@
 <h1 align="center">Salut 👋, moi c'est Anthony</h1>
 <h3 align="center">Développeur Web & Web Mobile Full Stack — France 🇫🇷</h3>
+<p align="center"><em>Dev junior | Ex-expert Retraite & Prévoyance | Growth Hacker en devenir</em></p>
 
 <br>
 
@@ -11,18 +12,30 @@
 
 ---
 
-## 🚀 À propos de moi
+## 👋 Qui suis-je ?
 
-- 🎓 Formation **DWWM (Développeur Web et Web Mobile)** terminée le 20 février 2026 — diplôme obtenu
-- 🔭 Je travaille actuellement sur **MySecretRepo** *(rien à voir ici ... )*
-- 🌱 Ma stack : **HTML, CSS, JavaScript, PHP, Symfony, PostgreSQL, MongoDB, Docker, Angular, React, typescript**
-- ⚡ Fun fact : **"Beaucoup trop curieux, gourmand et adore poser des questions... Prévoyez du temps si vous souhaitez me contacter."**
+Je suis le genre de personne qui ouvre un sujet pour comprendre comment ça marche… et qui se retrouve trois heures plus tard à en maîtriser cinq autres qu'il n'avait pas prévus.
 
-Du genre à plonger dans des terriers juste pour voir où ils mènent. Que ce soit le développement web, la logique d'architecture ou pourquoi les méduses brillent dans le noir… je veux savoir.
+Après plusieurs années dans le secteur de la **protection sociale** — assurance, prévoyance, puis retraite complémentaire AGIRC-ARRCO chez Malakoff Humanis — j'ai décidé de ne pas juste observer la transformation numérique des organisations : j'ai choisi d'en faire partie.
 
-Je débute dans le monde des dev, donc mes projets contiennent sûrement quelques couacs *(voire des symphonies entières)*. Chaque bug écrasé est une leçon de plus. Si tu repères quelque chose de bizarre, cassé ou carrément brillant, n'hésite pas à me le dire — je suis tout ouïe *(et plein d'onglets ouverts…)*.
+Depuis, j'ai obtenu mon diplôme **DWWM (RNCP Niv. 5)**, suivi une formation **Power BI**, décroché une certification en **IA générative éthique**, et je continue d'apprendre en autodidacte des outils comme N8N, LM Studio ou ComfyUI — parce que la curiosité, chez moi, ne prend pas de jours de repos.
 
-Ah, et je ris beaucoup trop facilement. C'est une fonctionnalité, pas un bug. Et si l'envie te prend de discuter, d'échanger des idées ou même des mèmes… **welcome !** 🎉
+Ce qui me différencie ? Je ne suis pas un dev qui découvre le monde de l'entreprise. Je suis quelqu'un qui connaît les enjeux métier — les vrais, ceux qui bloquent les projets en réunion — et qui a maintenant les outils techniques pour y répondre.
+
+> *Mes projets contiennent peut-être encore quelques couacs. Mais chaque bug écrasé est une leçon de plus. Si tu repères quelque chose de bizarre, cassé ou carrément brillant : je suis tout ouïe — et plein d'onglets ouverts.* 😄
+
+---
+
+## 🗺️ En un coup d'œil
+
+| | |
+|---|---|
+| 🎓 | DWWM Full Stack — RNCP Niv. 5 (Fév. 2026) |
+| 🚀 | En recherche d'alternance **Growth Hacker** |
+| 🔭 | Projet en cours : **MySecretRepo** *(rien à voir ici...)* |
+| 🌱 | En apprentissage : Growth Hacking · N8N · automatisation IA |
+| 🏦 | Ex-expert Retraite complémentaire AGIRC-ARRCO |
+| 📍 | Hauts-de-France 🇫🇷 |
 
 ---
 
@@ -42,48 +55,87 @@ Ah, et je ris beaucoup trop facilement. C'est une fonctionnalité, pas un bug. E
 
 ---
 
-## 🛠️ Langages & Outils
+## 🛠️ Stack technique
 
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- Backend -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://symfony.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
-  </a>
-  <!-- Bases de données -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <!-- DevOps & Outils -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Design -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
+> Les icônes `devicons` sont parfois instables sur GitHub. J'utilise ici des **badges shields.io** pour une meilleure fiabilité visuelle.
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### ⚙️ Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### 🗄️ Bases de données
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🐳 DevOps & Outils
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MAMP](https://img.shields.io/badge/MAMP-02569B?style=for-the-badge&logo=mamp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 📊 Data & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Langage M](https://img.shields.io/badge/Langage%20M-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+### 🤖 IA & Automatisation
+
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-6C3483?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1A1A2E?style=for-the-badge&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=white)
+![Seedance](https://img.shields.io/badge/Seedance-00C4CC?style=for-the-badge&logoColor=white)
+
+### 🎨 Créatif & Design
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Certification | Organisme | Année |
+|---|---|---|
+| 🖥️ DWWM — Développeur Web & Web Mobile (RNCP Niv. 5) | EEDN | 2026 |
+| 🤖 IA générative — Utilisation éthique et responsable | 26 Academy | 2025 |
+
+---
+
+## 💼 Parcours avant le code
+
+Avant de plonger dans le monde du développement, j'ai passé plusieurs années dans le secteur de la **protection sociale** :
+
+- 🏥 Assurance santé & prévoyance
+- 📋 Cotisations & commissions (courtage)
+- 🏦 **~4 ans en Retraite complémentaire AGIRC-ARRCO** (Malakoff Humanis)
+
+Ce background me donne une lecture métier que peu de devs juniors ont. Je comprends les enjeux des organisations qui numérisent leurs outils — et je sais parler aux équipes non-techniques.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonycatancavery&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonycatancavery&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
